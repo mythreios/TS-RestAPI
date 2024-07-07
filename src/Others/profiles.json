@@ -1,0 +1,39 @@
+{
+    "allProfiles" : [
+        {
+            "id": 1,
+            "nickname": "Alper",
+            "surname": "Yılmaz",
+            "age": 34,
+            "icon": "https://images-ext-1.discordapp.net/external/qWr_v7IU91A7fA-No3ZJVFTsm1YuWkfcx5U_EcHkdhE/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/992098093547921418/9545e855588cc4852480d2f1abdd66f0.png?format=webp&quality=lossless"
+        },
+        {
+            "id": 2,
+            "nickname": "Barış",
+            "surname": "Oktan",
+            "age": 21,
+            "icon": "https://cdn.discordapp.com/avatars/694989484852248657/a_413510c0d1316c84a4ac094f1c1c1b23.gif?size=1024"
+        },
+        {
+            "id": 3,
+            "nickname": "İbrahim",
+            "surname": "Yılmaz",
+            "age": 23,
+            "icon": "https://images-ext-1.discordapp.net/external/AKGHW-csAL8Nw3h-lIbB3GVUzEYnqmKvENhRaPYJzMo/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/412180038851493889/43a28034710f50f35414b3020947ddf3.png?format=webp&quality=lossless&width=635&height=635"
+        },
+        {
+            "id": 4,
+            "nickname": "Burak",
+            "surname": "Akkuş",
+            "age": 26,
+            "icon": "https://images-ext-1.discordapp.net/external/qWr_v7IU91A7fA-No3ZJVFTsm1YuWkfcx5U_EcHkdhE/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/992098093547921418/9545e855588cc4852480d2f1abdd66f0.png?format=webp&quality=lossless"
+        },
+        {
+            "id": 5,
+            "nickname": "Berat",
+            "surname": "Güntekin",
+            "age": 19,
+            "icon": "https://images-ext-1.discordapp.net/external/qWr_v7IU91A7fA-No3ZJVFTsm1YuWkfcx5U_EcHkdhE/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/992098093547921418/9545e855588cc4852480d2f1abdd66f0.png?format=webp&quality=lossless"
+        }
+    ]
+}
